@@ -1,4 +1,4 @@
-# 🇺🇸 Gun Violence Hotspot Prediction: A Spark ML Stacking Ensemble Approach
+# 🗽 US Gun Violence Hotspot Prediction: A Spark ML Stacking Ensemble Approach
 
 ## 📝 Project Summary
 
