@@ -1,0 +1,41 @@
+Latitude,Longitude,state,city_or_county,Type,total_incidents,total_victims,total_killed,total_injured,Risk_Probability,Risk_Category
+41.82680915853861,-87.67411545710024,Illinois,Chicago,City,12098,18009,4692,13317,1994.98,عالٍ جداً
+39.30562679045097,-76.62721158267017,Maryland,Baltimore,City,4524,5492,2161,3331,784.51,عالٍ جداً
+29.97656208913648,-90.04888072423405,Louisiana,New Orleans,City,3590,5155,1766,3389,642.92,عالٍ جداً
+29.777734967412872,-95.4069738452819,Texas,Houston,City,3529,5401,3566,1835,636.07,عالٍ جداً
+39.99494798167764,-75.15333965073009,Pennsylvania,Philadelphia,City,3493,5105,2075,3030,628.29,عالٍ جداً
+38.653835377494936,-90.24701293028636,Missouri,Saint Louis,City,3457,5498,2831,2667,626.44,عالٍ جداً
+38.89008113931525,-76.98955312868941,District of Columbia,Washington,City,3388,2880,886,1994,593.28,عالٍ جداً
+35.110119883641325,-89.95711156741949,Tennessee,Memphis,City,2922,4190,1576,2614,536.83,عالٍ جداً
+43.06945741797434,-87.95433598430813,Wisconsin,Milwaukee,City,2804,3099,1116,1983,508.24,عالٍ جداً
+30.330364061924065,-81.66817405086611,Florida,Jacksonville,City,2713,2728,1336,1392,490.8,عالٍ جداً
+42.38211851851853,-83.11326841895658,Michigan,Detroit,City,2511,4401,2200,2201,481.15,عالٍ جداً
+39.796700951986786,-86.13880848509935,Indiana,Indianapolis,City,2416,3302,1814,1488,454.49,عالٍ جداً
+41.48715102239534,-81.64693588120745,Ohio,Cleveland,City,2054,2866,1171,1695,397.89,عالٍ جداً
+29.451157337883963,-98.50939585568013,Texas,San Antonio,City,2051,2818,1533,1285,396.77,عالٍ جداً
+36.15114138634048,-115.16590774719654,Nevada,Las Vegas,City,1962,2998,2154,844,387.27,عالٍ جداً
+32.78881467732725,-96.80799274700173,Texas,Dallas,City,1751,2842,1716,1126,356.63,عالٍ جداً
+38.21320304912478,-85.76245940146808,Kentucky,Louisville,City,1771,2419,1239,1180,352.09,عالٍ جداً
+33.72839923708917,-84.41910058685457,Georgia,Atlanta,City,1704,2232,964,1268,339.77,عالٍ جداً
+37.78225131195335,-122.21883090379005,California,Oakland,City,1715,1893,733,1160,335.34,عالٍ جداً
+42.31562711959574,-71.08032498596296,Massachusetts,Boston,City,1781,1024,328,696,329.95,عالٍ جداً
+41.86,-87.71,Illinois,Regional Area,Region,121,363,36,327,139.21,عالٍ جداً
+41.88,-87.76,Illinois,Regional Area,Region,186,350,102,248,115.98,عالٍ جداً
+41.79,-87.65,Illinois,Regional Area,Region,115,258,32,226,115.56,عالٍ جداً
+41.88,-87.73,Illinois,Regional Area,Region,158,265,54,211,105.4,عالٍ جداً
+29.77,-95.37,Texas,Regional Area,Region,186,266,219,47,102.43,عالٍ جداً
+38.63,-90.19,Missouri,Regional Area,Region,121,203,36,167,99.54,عالٍ جداً
+41.87,-87.72,Illinois,Regional Area,Region,154,219,79,140,97.11,عالٍ جداً
+29.96,-90.07,Louisiana,Regional Area,Region,197,228,68,160,95.99,عالٍ جداً
+41.88,-87.74,Illinois,Regional Area,Region,136,195,29,166,94.6,عالٍ جداً
+39.29,-76.62,Maryland,Regional Area,Region,297,162,55,107,93.51,عالٍ جداً
+41.88,-87.75,Illinois,Regional Area,Region,151,192,47,145,92.11,عالٍ جداً
+41.86,-87.72,Illinois,Regional Area,Region,125,174,82,92,91.6,عالٍ جداً
+39.3,-76.58,Maryland,Regional Area,Region,145,141,36,105,82.19,عالٍ جداً
+38.91,-77.02,District of Columbia,Regional Area,Region,185,67,36,31,70.23,عالٍ جداً
+40.71,-74.08,New Jersey,Regional Area,Region,115,81,8,73,69.38,عالٍ
+33.64,-84.43,Georgia,Regional Area,Region,258,0,0,0,40.95,متوسط
+29.99,-95.35,Texas,Regional Area,Region,170,1,0,1,27.16,منخفض
+32.9,-97.04,Texas,Regional Area,Region,161,2,0,2,25.93,منخفض
+33.43,-112.01,Arizona,Regional Area,Region,160,0,0,0,25.4,منخفض
+39.85,-104.67,Colorado,Regional Area,Region,147,0,0,0,23.33,منخفض
